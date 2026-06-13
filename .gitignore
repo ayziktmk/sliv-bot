@@ -1,0 +1,11 @@
+.env
+*.db
+channels.json
+movies_backup.json
+config.py
+database.py
+os
+reklama_xatolari.txt
+venv/
+__pycache__/
+*.pyc
